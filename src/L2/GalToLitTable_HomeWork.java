@@ -1,6 +1,6 @@
 package L2;
 
-public class GalToLitТable {
+public class GalToLitTable {
 
     public static void main(String[] args) {
 
