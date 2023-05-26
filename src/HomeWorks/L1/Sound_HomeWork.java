@@ -1,6 +1,6 @@
 package L2;
 
-public class Sound {
+public class Sound_HomeWork {
     public static void main(String[] args) {
 
         double dist;

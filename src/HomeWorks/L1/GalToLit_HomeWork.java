@@ -2,7 +2,7 @@ package L2;
 
 import java.util.Scanner;
 
-public class GalToLit {
+public class GalToLit_HomeWork {
     public static void main(String[] args) {
         double gallons;
 
