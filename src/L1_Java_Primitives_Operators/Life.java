@@ -1,3 +1,5 @@
+package L1_Java_Primitives_Operators;
+
 public class Life {
 
     public static void main(String[] args) {

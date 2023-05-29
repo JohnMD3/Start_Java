@@ -1,4 +1,4 @@
-package L2;
+package HomeWorks.L1;
 
 public class Sound_HomeWork {
     public static void main(String[] args) {
@@ -7,6 +7,6 @@ public class Sound_HomeWork {
 
         dist = 1100 * 7.2;
 
-        System.out.println("Расстояние до места вспышки молнии " + "составляет " + dist + "футов");
+        System.out.println("Расстояние до места вспышки молнии " + "составляет " + dist + " футов");
     }
 }

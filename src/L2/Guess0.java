@@ -2,7 +2,7 @@ package L2;
 
 import java.util.Scanner;
 
-public class IfDemo {
+public class Guess0 {
 
     public static void main (String [] args) {
 //        if (condition) {
@@ -23,12 +23,11 @@ public class IfDemo {
         ch = myFancyScanner.nextLine().charAt(0);
 
 
-        if (ch == answer) {
-            System.out.println("You are right!");
-            System.out.println("Great Try!");
-        }  else {
-            System.out.println("Sorry, you are wrong. Try next time!");
-        }
+        if (ch == answer) System.out.println("You are right!");
+        else System.out.println("Sorry, you are wrong. Try next time!");
+
+
+
 
 
 

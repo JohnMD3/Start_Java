@@ -1,4 +1,4 @@
-package L2;
+package HomeWorks.L1;
 
 import java.util.Scanner;
 

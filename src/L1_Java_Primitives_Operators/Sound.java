@@ -1,3 +1,5 @@
+package L1_Java_Primitives_Operators;
+
 import java.util.Scanner;
 
 public class Sound {
